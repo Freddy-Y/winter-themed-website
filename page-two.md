@@ -27,7 +27,7 @@ permalink: /happy-holidays
   <body>
     <nav>
       <a href="/winter-themed-website/">Home</a>
-      <a href="/page2.html" aria-current="page">Other page</a>
+      <a href="/winter-themed-website/" aria-current="page">Other page</a>
     </nav>
     <main>
       <h1 style="text-align: Center; color: #FF0000; font-family: Mountains of Christmas; font-size: 100px">
